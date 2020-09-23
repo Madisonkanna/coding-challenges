@@ -1,4 +1,4 @@
-<h1 align="center">Codewars Challenges</h1>
+<h1 align="center">Coding Challenges</h1>
 
 ## Objective: Complete 50 coding challenges.
 
