@@ -2,7 +2,7 @@
 
 ## Objective: Complete 50 coding challenges.
 
-## CodeWars challenges
+### CodeWars challenges
 
 ### 8kyu ()
 
