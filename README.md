@@ -2,6 +2,8 @@
 
 ## Objective: Complete 50 coding challenges.
 
+## CodeWars challenges
+
 ### 8kyu ()
 
 - [ ] 1. []()
