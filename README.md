@@ -6,4 +6,4 @@
 
 ### 8kyu ()
 
-- [ ] 1. [Sum without highest and lowest number](codewars/8kyu/Sum-without-highest-and-lowest-number)
+- [x] 1. [Sum without highest and lowest number](codewars/8kyu/Sum-without-highest-and-lowest-number)
