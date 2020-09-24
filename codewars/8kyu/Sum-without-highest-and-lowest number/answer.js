@@ -5,7 +5,6 @@ function sumArray(array) {
     : 0
 }
 
-
 //unoptimized first solution - broken
 function sumArray(array) {
     if (!array || array < 2) return 0
