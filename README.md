@@ -4,7 +4,7 @@
 
 ### CodeWars challenges
 
-### 8kyu/7kyu ()
+### 8kyu ()
 
 - [x] 1. [Sum without highest and lowest number](codewars/8kyu/Sum-without-highest-and-lowest-number)
 - [x] 2. [Invert values](codewars/8kyu/Invert-values)
