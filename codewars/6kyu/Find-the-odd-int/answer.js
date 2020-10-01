@@ -1,4 +1,5 @@
 //First attempt
+//Feel free to make a PR with code comments on how you think this code could be better! Improvement suggestions always welcome.
 function findOdd(A) {
   const map = {}
   for (num of A) {
@@ -18,3 +19,5 @@ function findOdd(A) {
   }
 
 }
+
+function findMultiples

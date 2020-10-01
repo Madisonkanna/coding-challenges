@@ -1,3 +1,4 @@
+//Feel free to make a PR with code comments on how you think this code could be better! Improvement suggestions always welcome.
 //optimized
 function sumArray(array) {
   return Array.isArray(array) && array.length > 1

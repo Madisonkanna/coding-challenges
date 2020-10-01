@@ -1,3 +1,4 @@
+//Feel free to make a PR with code comments on how you think this code could be better! Improvement suggestions always welcome.
 function solution(number){
   //create a loop that counts i to num
   //check if each number is a multiple of 3 or 5
