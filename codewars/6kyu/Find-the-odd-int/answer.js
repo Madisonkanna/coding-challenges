@@ -2,12 +2,13 @@
 
 // Feel free to make a PR with code comments on how you think this code could be better! Improvement suggestions always welcome.
 
-// Solution: if there is only 1 number that will appear an odd time, than if
-//           we see a number, then alternatively add or substract the number
-//           from a running sum, eventually only the sole number that appears
-//           odd times in the array will be left for this running sum.
+// Solution: if there is only 1 number that appears odd times, then we can
+//           simplify the problem by alternatively adding or substracting
+//           the numbers in the array on a running sum. Eventually, only the
+//           sole number that appears odd times in the array will be left in
+//           this running sum.
 //
-//           Now consider this array:
+//           Consider this array example:
 //               [1,2,1]
 //           1) at index = 0, sum = 0 + 1 * 1 = 1;   // 1 appears once so
 //              far, so factor = 1;
